@@ -1,0 +1,39 @@
+body {
+    background-color: #ffc27c;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.foot {
+    background-color: #ffa742;
+    border: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 100px;
+}
+.gds__list {
+    
+}
+gds__item {
+    list-style: none;
+    border: 1px solid #ffc27c;
+}
+main {flex: 1 1 auto;}
+.tayga__img {
+    height: 300px;
+    width: auto;
+    margin: auto;
+    display: block;
+}
+button {
+    background-color: #ffa742;
+    height: 30px;
+    width: 70px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.none {
+    display: none;
+}
